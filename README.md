@@ -1,0 +1,1 @@
+A cybersecurity capstone project that simulates brute-force attacks on Linux (SSH) and Windows Server (RDP) environments, analyzes authentication logs, and implements account lockout, incident response, and security mitigation strategies to strengthen authentication security.
